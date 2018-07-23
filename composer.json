@@ -11,8 +11,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "centraldesktop/stomp": "2.0.*",
-        "symfony/symfony": "^4.0"
+        "centraldesktop/stomp": "2.0.*"
     },
 
     "autoload": {
